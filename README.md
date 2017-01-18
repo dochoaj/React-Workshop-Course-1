@@ -1,4 +1,4 @@
-# react-boilerplate
+# react-boilerplate (for exercise 1)
 A simple React boilerplate with &lt;3
 
 # Features
